@@ -1,0 +1,1616 @@
+{
+  "id": "menu-estado-expandido",
+  "status": "suspeita",
+  "reason": "Painel aberto sem aria-expanded=\"true\" no acionador inspecionado.",
+  "expected": "O estado aberto deve estar disponivel programaticamente. Verificar a semantica e o anuncio no leitor de tela.",
+  "criterionCandidate": "Investigar WCAG 2.2, 4.1.2. Ausencia de um atributo isolado nao confirma violacao.",
+  "observed": "<a class=\"ico-navegacao toggle-main-navigation open\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+  "episode": 1,
+  "step": 2,
+  "transition": "M02",
+  "confirmed": false,
+  "inputs": [
+    {
+      "index": 1,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "",
+          "outline": {
+            "color": "rgb(85, 85, 85)",
+            "shadow": "none",
+            "style": "none",
+            "width": "3px"
+          },
+          "rect": {
+            "height": 6207.453125,
+            "width": 1348,
+            "x": 0,
+            "y": 0
+          },
+          "signature": "[\"BODY\",\"\",\"\",\"\"]",
+          "tag": "BODY",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:06.710Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Ir para o Conteúdo 1",
+          "outline": {
+            "color": "rgb(64, 224, 208)",
+            "shadow": "none",
+            "style": "solid",
+            "width": "2px"
+          },
+          "rect": {
+            "height": 40,
+            "width": 150.09375,
+            "x": 290.078125,
+            "y": -40
+          },
+          "signature": "[\"A\",\"\",\"Ir para o Conteúdo 1\",\"#wrapper\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:06.770Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 2,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Ir para o Conteúdo 1",
+          "outline": {
+            "color": "rgb(64, 224, 208)",
+            "shadow": "none",
+            "style": "solid",
+            "width": "2px"
+          },
+          "rect": {
+            "height": 40,
+            "width": 150.09375,
+            "x": 290.078125,
+            "y": -40
+          },
+          "signature": "[\"A\",\"\",\"Ir para o Conteúdo 1\",\"#wrapper\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:06.777Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Ir para a Página Inicial 2",
+          "outline": {
+            "color": "rgb(64, 224, 208)",
+            "shadow": "none",
+            "style": "solid",
+            "width": "2px"
+          },
+          "rect": {
+            "height": 40,
+            "width": 177.265625,
+            "x": 440.171875,
+            "y": -40
+          },
+          "signature": "[\"A\",\"\",\"Ir para a Página Inicial 2\",\"/\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:06.836Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 3,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Ir para a Página Inicial 2",
+          "outline": {
+            "color": "rgb(64, 224, 208)",
+            "shadow": "none",
+            "style": "solid",
+            "width": "2px"
+          },
+          "rect": {
+            "height": 40,
+            "width": 177.265625,
+            "x": 440.171875,
+            "y": -40
+          },
+          "signature": "[\"A\",\"\",\"Ir para a Página Inicial 2\",\"/\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:06.844Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Ir para o menu de Navegação 3",
+          "outline": {
+            "color": "rgb(64, 224, 208)",
+            "shadow": "none",
+            "style": "solid",
+            "width": "2px"
+          },
+          "rect": {
+            "height": 40,
+            "width": 157.546875,
+            "x": 617.4375,
+            "y": -40
+          },
+          "signature": "[\"A\",\"\",\"Ir para o menu de Navegação 3\",\"#main-navigation\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:06.902Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 4,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Ir para o menu de Navegação 3",
+          "outline": {
+            "color": "rgb(64, 224, 208)",
+            "shadow": "none",
+            "style": "solid",
+            "width": "2px"
+          },
+          "rect": {
+            "height": 40,
+            "width": 157.546875,
+            "x": 617.4375,
+            "y": -40
+          },
+          "signature": "[\"A\",\"\",\"Ir para o menu de Navegação 3\",\"#main-navigation\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:06.910Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Ir para a Busca 4",
+          "outline": {
+            "color": "rgb(64, 224, 208)",
+            "shadow": "none",
+            "style": "solid",
+            "width": "2px"
+          },
+          "rect": {
+            "height": 40,
+            "width": 113.6875,
+            "x": 774.984375,
+            "y": -40
+          },
+          "signature": "[\"A\",\"\",\"Ir para a Busca 4\",\"#govbr-busca-input\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:06.968Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 5,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Ir para a Busca 4",
+          "outline": {
+            "color": "rgb(64, 224, 208)",
+            "shadow": "none",
+            "style": "solid",
+            "width": "2px"
+          },
+          "rect": {
+            "height": 40,
+            "width": 113.6875,
+            "x": 774.984375,
+            "y": -40
+          },
+          "signature": "[\"A\",\"\",\"Ir para a Busca 4\",\"#govbr-busca-input\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:06.976Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Ir para o Mapa do site 5",
+          "outline": {
+            "color": "rgb(64, 224, 208)",
+            "shadow": "none",
+            "style": "solid",
+            "width": "2px"
+          },
+          "rect": {
+            "height": 40,
+            "width": 169.25,
+            "x": 888.671875,
+            "y": -40
+          },
+          "signature": "[\"A\",\"\",\"Ir para o Mapa do site 5\",\"#portal-footer\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.034Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 6,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Ir para o Mapa do site 5",
+          "outline": {
+            "color": "rgb(64, 224, 208)",
+            "shadow": "none",
+            "style": "solid",
+            "width": "2px"
+          },
+          "rect": {
+            "height": 40,
+            "width": 169.25,
+            "x": 888.671875,
+            "y": -40
+          },
+          "signature": "[\"A\",\"\",\"Ir para o Mapa do site 5\",\"#portal-footer\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.041Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": "langues-menu",
+            "expanded": "true",
+            "label": "Alterar idioma",
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Alterar idioma",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32,
+            "width": 32,
+            "x": 1150,
+            "y": 16
+          },
+          "signature": "[\"BUTTON\",\"\",\"Alterar idioma\",\"\"]",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.110Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 7,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": "langues-menu",
+            "expanded": "true",
+            "label": "Alterar idioma",
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Alterar idioma",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32,
+            "width": 32,
+            "x": 1150,
+            "y": 16
+          },
+          "signature": "[\"BUTTON\",\"\",\"Alterar idioma\",\"\"]",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.118Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "EN",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 44,
+            "width": 100,
+            "x": 1082,
+            "y": 41
+          },
+          "signature": "[\"A\",\"\",\"EN\",\"https://www.gov.br/en?set_language=en\"]",
+          "tag": "A",
+          "visible": false
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.178Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 8,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "EN",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 44,
+            "width": 100,
+            "x": 1082,
+            "y": 41
+          },
+          "signature": "[\"A\",\"\",\"EN\",\"https://www.gov.br/en?set_language=en\"]",
+          "tag": "A",
+          "visible": false
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.186Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "ES",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 44,
+            "width": 100,
+            "x": 1082,
+            "y": 19
+          },
+          "signature": "[\"A\",\"\",\"ES\",\"https://www.gov.br/es?set_language=es\"]",
+          "tag": "A",
+          "visible": false
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.244Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 9,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "ES",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 44,
+            "width": 100,
+            "x": 1082,
+            "y": 19
+          },
+          "signature": "[\"A\",\"\",\"ES\",\"https://www.gov.br/es?set_language=es\"]",
+          "tag": "A",
+          "visible": false
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.263Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": "Abrir preferências de cookies",
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Abrir preferências de cookies",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32,
+            "width": 32,
+            "x": 1184,
+            "y": 18.96875
+          },
+          "signature": "[\"BUTTON\",\"\",\"Abrir preferências de cookies\",\"\"]",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.321Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 10,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": "Abrir preferências de cookies",
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Abrir preferências de cookies",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32,
+            "width": 32,
+            "x": 1184,
+            "y": 18.96875
+          },
+          "signature": "[\"BUTTON\",\"\",\"Abrir preferências de cookies\",\"\"]",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.328Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": "Ativar ou desativar o modo de alto contraste",
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Ativar ou desativar o modo de alto contraste",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32,
+            "width": 32,
+            "x": 1218,
+            "y": 18.96875
+          },
+          "signature": "[\"BUTTON\",\"\",\"Ativar ou desativar o modo de alto contraste\",\"\"]",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.386Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 11,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": "Ativar ou desativar o modo de alto contraste",
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Ativar ou desativar o modo de alto contraste",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32,
+            "width": 32,
+            "x": 1218,
+            "y": 18.96875
+          },
+          "signature": "[\"BUTTON\",\"\",\"Ativar ou desativar o modo de alto contraste\",\"\"]",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.395Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 39.984375,
+            "width": 111.109375,
+            "x": 98,
+            "y": 59.96875
+          },
+          "signature": "[\"A\",\"\",\"\",\"https://www.gov.br/pt-br\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.452Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 12,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 39.984375,
+            "width": 111.109375,
+            "x": 98,
+            "y": 59.96875
+          },
+          "signature": "[\"A\",\"\",\"\",\"https://www.gov.br/pt-br\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.460Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": "false",
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Institucional",
+          "outline": {
+            "color": "rgb(16, 16, 16)",
+            "shadow": "none",
+            "style": "auto",
+            "width": "1px"
+          },
+          "rect": {
+            "height": 28.296875,
+            "width": 127.28125,
+            "x": 528.390625,
+            "y": 65.796875
+          },
+          "signature": "[\"BUTTON\",\"\",\"Institucional\",\"\"]",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.519Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 13,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": "false",
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Institucional",
+          "outline": {
+            "color": "rgb(16, 16, 16)",
+            "shadow": "none",
+            "style": "auto",
+            "width": "1px"
+          },
+          "rect": {
+            "height": 28.296875,
+            "width": 127.28125,
+            "x": 528.390625,
+            "y": 65.796875
+          },
+          "signature": "[\"BUTTON\",\"\",\"Institucional\",\"\"]",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.528Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Acessibilidade",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32.5,
+            "width": 112.25,
+            "x": 663.671875,
+            "y": 63.703125
+          },
+          "signature": "[\"A\",\"\",\"Acessibilidade\",\"https://www.gov.br/governodigital/pt-br/acessibilidade-digital\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.585Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 14,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Acessibilidade",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32.5,
+            "width": 112.25,
+            "x": 663.671875,
+            "y": 63.703125
+          },
+          "signature": "[\"A\",\"\",\"Acessibilidade\",\"https://www.gov.br/governodigital/pt-br/acessibilidade-digital\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.594Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Participe",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32.5,
+            "width": 74.609375,
+            "x": 783.921875,
+            "y": 63.703125
+          },
+          "signature": "[\"A\",\"\",\"Participe\",\"https://www.gov.br/pt-br/participacao-social\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.651Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 15,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Participe",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32.5,
+            "width": 74.609375,
+            "x": 783.921875,
+            "y": 63.703125
+          },
+          "signature": "[\"A\",\"\",\"Participe\",\"https://www.gov.br/pt-br/participacao-social\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.659Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": "Abrir menu de seleção serviços",
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Abrir menu de seleção serviços",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32,
+            "width": 170.765625,
+            "x": 875.53125,
+            "y": 65.4375
+          },
+          "signature": "[\"BUTTON\",\"\",\"Abrir menu de seleção serviços\",\"\"]",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.717Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 16,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": "Abrir menu de seleção serviços",
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "Abrir menu de seleção serviços",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32,
+            "width": 170.765625,
+            "x": 875.53125,
+            "y": 65.4375
+          },
+          "signature": "[\"BUTTON\",\"\",\"Abrir menu de seleção serviços\",\"\"]",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.725Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32,
+            "width": 195.703125,
+            "x": 1054.296875,
+            "y": 65.4375
+          },
+          "signature": "[\"BUTTON\",\"\",\"\",\"\"]",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.782Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 17,
+      "phase": "teste",
+      "type": "press",
+      "key": "Tab",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "outside",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": false,
+          "name": "",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "4px"
+          },
+          "rect": {
+            "height": 32,
+            "width": 195.703125,
+            "x": 1054.296875,
+            "y": 65.4375
+          },
+          "signature": "[\"BUTTON\",\"\",\"\",\"\"]",
+          "tag": "BUTTON",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.789Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "menu_toggle",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": true,
+          "name": "Abrir menu principal de navegação",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "2px"
+          },
+          "rect": {
+            "height": 32,
+            "width": 32,
+            "x": 92.5,
+            "y": 143.96875
+          },
+          "signature": "[\"A\",\"\",\"Abrir menu principal de navegação\",\"#\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation focus-visible\" href=\"#\" data-focus-visible-added=\"\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:07.848Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    },
+    {
+      "index": 18,
+      "phase": "teste",
+      "type": "press",
+      "key": "Enter",
+      "before": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "menu_toggle",
+          "id": "",
+          "inMenu": false,
+          "isFirstMenuLink": false,
+          "isMenuToggle": true,
+          "name": "Abrir menu principal de navegação",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "2px"
+          },
+          "rect": {
+            "height": 32,
+            "width": 32,
+            "x": 92.5,
+            "y": 143.96875
+          },
+          "signature": "[\"A\",\"\",\"Abrir menu principal de navegação\",\"#\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation focus-visible\" href=\"#\" data-focus-visible-added=\"\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": false,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:08.355Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      },
+      "executed": true,
+      "after": {
+        "adapterOk": true,
+        "filterControl": null,
+        "filterOpen": false,
+        "focus": {
+          "aria": {
+            "controls": null,
+            "expanded": null,
+            "label": null,
+            "role": null
+          },
+          "bucket": "menu_first",
+          "id": "",
+          "inMenu": true,
+          "isFirstMenuLink": true,
+          "isMenuToggle": false,
+          "name": "Serviços",
+          "outline": {
+            "color": "rgb(194, 133, 12)",
+            "shadow": "none",
+            "style": "dashed",
+            "width": "2px"
+          },
+          "rect": {
+            "height": 36,
+            "width": 282,
+            "x": 98,
+            "y": 237.96875
+          },
+          "signature": "[\"A\",\"\",\"Serviços\",\"https://www.gov.br/pt-br/servicos\"]",
+          "tag": "A",
+          "visible": true
+        },
+        "menuControl": "<a class=\"ico-navegacao toggle-main-navigation open\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+        "menuOpen": true,
+        "query": "",
+        "results": [],
+        "time": "2026-11-11T08:07:08.424Z",
+        "title": "GOV.BR",
+        "url": "https://www.gov.br/pt-br"
+      }
+    }
+  ]
+}

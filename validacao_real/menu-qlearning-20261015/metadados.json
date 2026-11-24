@@ -1,0 +1,130 @@
+{
+  "created": "2026-11-11T08:07:05.086Z",
+  "node": null,
+  "os": "linux 6.18.57 x64",
+  "browser": "Chrome disponibilizado pelo ambiente; versao exata nao exposta",
+  "executionNotes": "Validacao real via ponte CUA. Mesma aba reinicializada por episodio, cookies compartilhados previamente rejeitados. Sem isolamento de contexto, sem interceptacao de rede e sem trace Playwright. Area util observada 1348 x 936. As teclas, observacoes, modelo, selecao Haskell e atualizacoes Q sao reais. Backend distinto do Playwright local entregue.",
+  "config": {
+    "episodios": 3,
+    "limitePassos": 2500,
+    "alpha": 0.1,
+    "gamma": 0.9,
+    "epsilon": 0.2,
+    "semente": 20261015,
+    "sementesComparacao": [
+      20261015,
+      20261016,
+      20261017
+    ],
+    "episodiosComparacao": 5,
+    "viewport": {
+      "width": 1348,
+      "height": 936
+    },
+    "headless": false,
+    "pausaTeclaMs": 50,
+    "pausaTransicaoMs": 250,
+    "timeoutMs": 15000,
+    "maxTabsPorBusca": 100,
+    "pausaEpisodioMs": 1000,
+    "traces": false
+  },
+  "hashes": {
+    "config.json": "b229fc941c5b4cda9dfb01aa6154bc931db642b27b2d644be2123ea380d00120",
+    "package-lock.json": "a221dff41a3158cbddf684e6440912b97f140a35fe627b326f7869e237163e7b",
+    "haskell/Main.hs": "63b140172a1ccfdf0608e40408d04a267028b868cfc4deddb0238a4ea82590f7",
+    "src/modelos.mjs": "ebf0b42ad15b8306ce3b2cb11b43b88cac64e1727be9b28d72138a2a9069e484",
+    "src/navegador.mjs": "7fda38ead4caed091b9607e23294ff307fbe59fdef9633dbd115b8cdf79d2a47",
+    "src/experimento.mjs": "d8b3da515765674f0b11bf04cd75b2b44a2780c7d6c202612b281769eb904027"
+  },
+  "modelVersion": "govbr-piloto-0.1.0",
+  "criterion": "all-transitions do modelo declarado",
+  "machine": "EFSM com saidas de Mealy",
+  "model": {
+    "id": "menu",
+    "nome": "Menu principal",
+    "url": "https://www.gov.br/pt-br",
+    "inicial": "pagina",
+    "estados": [
+      "pagina",
+      "acionador",
+      "primeiro_item",
+      "segundo_item"
+    ],
+    "transicoes": [
+      {
+        "id": "M01",
+        "from": "pagina",
+        "action": "ALCANCAR_MENU",
+        "to": "acionador",
+        "expected": "O acionador recebe foco por Tab."
+      },
+      {
+        "id": "M02",
+        "from": "acionador",
+        "action": "ABRIR_MENU",
+        "to": "primeiro_item",
+        "expected": "Menu visivel e primeiro link com foco."
+      },
+      {
+        "id": "M03",
+        "from": "primeiro_item",
+        "action": "AVANCAR_ITEM",
+        "to": "segundo_item",
+        "expected": "Tab move o foco para outro link visivel do menu."
+      },
+      {
+        "id": "M04",
+        "from": "segundo_item",
+        "action": "RECUAR_ITEM",
+        "to": "primeiro_item",
+        "expected": "Shift+Tab retorna ao primeiro link."
+      },
+      {
+        "id": "M05",
+        "from": "primeiro_item",
+        "action": "ESCAPE",
+        "to": "acionador",
+        "expected": "Menu fecha e o acionador recebe foco."
+      },
+      {
+        "id": "M06",
+        "from": "segundo_item",
+        "action": "ESCAPE",
+        "to": "acionador",
+        "expected": "Menu fecha e o acionador recebe foco."
+      },
+      {
+        "id": "M07",
+        "from": "primeiro_item",
+        "action": "FECHAR_MENU",
+        "to": "acionador",
+        "expected": "O acionador, alcançado por Shift+Tab, fecha o menu."
+      },
+      {
+        "id": "M08",
+        "from": "segundo_item",
+        "action": "FECHAR_MENU",
+        "to": "acionador",
+        "expected": "O acionador, alcançado por Shift+Tab, fecha o menu."
+      }
+    ],
+    "roteiro": [
+      "ALCANCAR_MENU",
+      "ABRIR_MENU",
+      "AVANCAR_ITEM",
+      "RECUAR_ITEM",
+      "ESCAPE",
+      "ABRIR_MENU",
+      "AVANCAR_ITEM",
+      "ESCAPE",
+      "ABRIR_MENU",
+      "FECHAR_MENU",
+      "ABRIR_MENU",
+      "AVANCAR_ITEM",
+      "FECHAR_MENU"
+    ]
+  },
+  "mode": "qlearning",
+  "seed": 20261015
+}

@@ -1,0 +1,25 @@
+{
+  "adapterOk": true,
+  "focus": {
+    "bucket": "outside",
+    "id": "",
+    "name": "",
+    "signature": "[\"outside\",\"BODY\",\"\",\"\",\"\"]",
+    "tag": "BODY",
+    "visible": true
+  },
+  "ibge": {
+    "fontesAbertas": false,
+    "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+    "pontos": 2,
+    "rotuloPonto": "",
+    "valor2010": ""
+  },
+  "time": "2026-11-11T14:03:50.792Z",
+  "title": "Santos (SP) | Cidades e Estados | IBGE",
+  "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+  "viewport": {
+    "height": 936,
+    "width": 1363
+  }
+}

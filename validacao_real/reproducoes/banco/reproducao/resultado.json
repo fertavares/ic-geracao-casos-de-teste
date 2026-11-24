@@ -1,0 +1,36 @@
+{
+  "status": "concluida",
+  "case": 1,
+  "steps": 27,
+  "preparationKeys": 0,
+  "falhaFuncional": {
+    "reproduzida": true,
+    "transition": "B08",
+    "expected": "O foco chega a Bar antes de sair do seletor de visualização.",
+    "observed": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "also",
+        "id": "ContextualDropdown",
+        "name": "Also Show",
+        "signature": "[\"also\",\"BUTTON\",\"ContextualDropdown\",\"Also Show\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.639Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  }
+}

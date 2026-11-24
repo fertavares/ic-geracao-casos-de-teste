@@ -1,0 +1,1541 @@
+[
+  {
+    "index": 1,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"BODY\",\"\",\"\",\"\"]",
+        "tag": "BODY",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:54.464Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"A\",\"\",\"\",\"http://www.worldbank.org\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:54.552Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 2,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"A\",\"\",\"\",\"http://www.worldbank.org\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:54.571Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Data",
+        "signature": "[\"outside\",\"A\",\"\",\"Data\",\"/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:54.716Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 3,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Data",
+        "signature": "[\"outside\",\"A\",\"\",\"Data\",\"/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:54.731Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "HOME",
+        "signature": "[\"outside\",\"A\",\"\",\"HOME\",\"/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:54.797Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 4,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "HOME",
+        "signature": "[\"outside\",\"A\",\"\",\"HOME\",\"/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:54.807Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "ECONOMIES",
+        "signature": "[\"outside\",\"A\",\"\",\"ECONOMIES\",\"https://data360.worldbank.org/en/economies\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:54.878Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 5,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "ECONOMIES",
+        "signature": "[\"outside\",\"A\",\"\",\"ECONOMIES\",\"https://data360.worldbank.org/en/economies\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:54.895Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "THEMES",
+        "signature": "[\"outside\",\"A\",\"\",\"THEMES\",\"#\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:54.961Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 6,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "THEMES",
+        "signature": "[\"outside\",\"A\",\"\",\"THEMES\",\"#\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:54.977Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "DATA & RESOURCES",
+        "signature": "[\"outside\",\"A\",\"\",\"DATA & RESOURCES\",\"https://data360.worldbank.org/en/search\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.040Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 7,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "DATA & RESOURCES",
+        "signature": "[\"outside\",\"A\",\"\",\"DATA & RESOURCES\",\"https://data360.worldbank.org/en/search\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.049Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "ABOUT",
+        "signature": "[\"outside\",\"A\",\"\",\"ABOUT\",\"https://data360.worldbank.org/en/about\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.109Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 8,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "ABOUT",
+        "signature": "[\"outside\",\"A\",\"\",\"ABOUT\",\"https://data360.worldbank.org/en/about\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.122Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "EnglishEspañolFrançaisالعربية中文",
+        "signature": "[\"outside\",\"SELECT\",\"\",\"EnglishEspañolFrançaisالعربية中文\",\"\"]",
+        "tag": "SELECT",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.186Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 9,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "EnglishEspañolFrançaisالعربية中文",
+        "signature": "[\"outside\",\"SELECT\",\"\",\"EnglishEspañolFrançaisالعربية中文\",\"\"]",
+        "tag": "SELECT",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.237Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.299Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 10,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.309Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "selector",
+        "name": "",
+        "signature": "[\"outside\",\"INPUT\",\"selector\",\"\",\"\"]",
+        "tag": "INPUT",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.372Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 11,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "selector",
+        "name": "",
+        "signature": "[\"outside\",\"INPUT\",\"selector\",\"\",\"\"]",
+        "tag": "INPUT",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.382Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.446Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 12,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.456Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.518Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 13,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.531Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Close",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"Close\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.592Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 14,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Close",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"Close\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.603Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Country",
+        "signature": "[\"outside\",\"A\",\"\",\"Country\",\"/country\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.668Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 15,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Country",
+        "signature": "[\"outside\",\"A\",\"\",\"Country\",\"/country\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.680Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Indicator",
+        "signature": "[\"outside\",\"A\",\"\",\"Indicator\",\"/indicator\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.742Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 16,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Indicator",
+        "signature": "[\"outside\",\"A\",\"\",\"Indicator\",\"/indicator\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.751Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"A\",\"\",\"\",\"/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.811Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 17,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"A\",\"\",\"\",\"/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.821Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "DataBank",
+        "signature": "[\"outside\",\"A\",\"\",\"DataBank\",\"http://databank.worldbank.org/data/home.aspx\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.883Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 18,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "DataBank",
+        "signature": "[\"outside\",\"A\",\"\",\"DataBank\",\"http://databank.worldbank.org/data/home.aspx\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.906Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Microdata",
+        "signature": "[\"outside\",\"A\",\"\",\"Microdata\",\"http://microdata.worldbank.org/index.php/home\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.970Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 19,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Microdata",
+        "signature": "[\"outside\",\"A\",\"\",\"Microdata\",\"http://microdata.worldbank.org/index.php/home\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:55.982Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Data Catalog",
+        "signature": "[\"outside\",\"A\",\"\",\"Data Catalog\",\"https://datacatalog.worldbank.org\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.044Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 20,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Data Catalog",
+        "signature": "[\"outside\",\"A\",\"\",\"Data Catalog\",\"https://datacatalog.worldbank.org\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.055Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "navBarMenu",
+        "name": "Menu",
+        "signature": "[\"outside\",\"BUTTON\",\"navBarMenu\",\"Menu\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.115Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 21,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "navBarMenu",
+        "name": "Menu",
+        "signature": "[\"outside\",\"BUTTON\",\"navBarMenu\",\"Menu\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.127Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Population, total",
+        "signature": "[\"outside\",\"A\",\"\",\"Population, total\",\"/indicator/SP.POP.TOTL\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.192Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 22,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Population, total",
+        "signature": "[\"outside\",\"A\",\"\",\"Population, total\",\"/indicator/SP.POP.TOTL\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.208Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "population.un.org/wpp",
+        "signature": "[\"outside\",\"A\",\"\",\"population.un.org/wpp\",\"https://population.un.org/wpp/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.272Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 23,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "population.un.org/wpp",
+        "signature": "[\"outside\",\"A\",\"\",\"population.un.org/wpp\",\"https://population.un.org/wpp/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.282Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "unstats.un.org/home/nso_sites",
+        "signature": "[\"outside\",\"A\",\"\",\"unstats.un.org/home/nso_sites\",\"https://unstats.un.org/home/nso_sites/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.341Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 24,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "unstats.un.org/home/nso_sites",
+        "signature": "[\"outside\",\"A\",\"\",\"unstats.un.org/home/nso_sites\",\"https://unstats.un.org/home/nso_sites/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.350Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly",
+        "signature": "[\"outside\",\"A\",\"\",\"ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly\",\"https://ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.409Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 25,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly",
+        "signature": "[\"outside\",\"A\",\"\",\"ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly\",\"https://ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.419Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "unstats.un.org",
+        "signature": "[\"outside\",\"A\",\"\",\"unstats.un.org\",\"https://unstats.un.org\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.491Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 26,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "unstats.un.org",
+        "signature": "[\"outside\",\"A\",\"\",\"unstats.un.org\",\"https://unstats.un.org\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.501Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "licenca",
+        "id": "",
+        "name": "",
+        "signature": "[\"licenca\",\"A\",\"\",\"\",\"https://datacatalog.worldbank.org/public-licenses#cc-by\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.564Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 27,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "licenca",
+        "id": "",
+        "name": "",
+        "signature": "[\"licenca\",\"A\",\"\",\"\",\"https://datacatalog.worldbank.org/public-licenses#cc-by\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.573Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "banco": {
+        "barChart": false,
+        "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+        "barVisible": true,
+        "noTabControls": true,
+        "view": "Line"
+      },
+      "focus": {
+        "bucket": "also",
+        "id": "ContextualDropdown",
+        "name": "Also Show",
+        "signature": "[\"also\",\"BUTTON\",\"ContextualDropdown\",\"Also Show\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "time": "2026-11-11T14:03:56.634Z",
+      "title": "Population, total | Data",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  }
+]

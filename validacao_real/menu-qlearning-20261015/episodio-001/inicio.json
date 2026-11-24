@@ -1,0 +1,41 @@
+{
+  "adapterOk": true,
+  "filterControl": null,
+  "filterOpen": false,
+  "focus": {
+    "aria": {
+      "controls": null,
+      "expanded": null,
+      "label": null,
+      "role": null
+    },
+    "bucket": "outside",
+    "id": "",
+    "inMenu": false,
+    "isFirstMenuLink": false,
+    "isMenuToggle": false,
+    "name": "",
+    "outline": {
+      "color": "rgb(85, 85, 85)",
+      "shadow": "none",
+      "style": "none",
+      "width": "3px"
+    },
+    "rect": {
+      "height": 6207.453125,
+      "width": 1348,
+      "x": 0,
+      "y": 0
+    },
+    "signature": "[\"BODY\",\"\",\"\",\"\"]",
+    "tag": "BODY",
+    "visible": true
+  },
+  "menuControl": "<a class=\"ico-navegacao toggle-main-navigation\" href=\"#\">\n                        <span class=\"sr-only\">Abrir menu principal de navegação</span>\n                        <span class=\"fa fa-bars\" aria-hidden=\"true\"></span>\n                        <span class=\"fa fa-times\" aria-hidden=\"true\"></span>\n                    </a>",
+  "menuOpen": false,
+  "query": "",
+  "results": [],
+  "time": "2026-11-11T08:07:06.698Z",
+  "title": "GOV.BR",
+  "url": "https://www.gov.br/pt-br"
+}

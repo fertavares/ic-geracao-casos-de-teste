@@ -1,0 +1,56 @@
+{
+  "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+  "timestamp": "2026-11-11T13:56:54.290Z",
+  "keyboard": {
+    "tabFrom": {
+      "c": "info-b",
+      "href": "https://datacatalog.worldbank.org/public-licenses#cc-by",
+      "i": "",
+      "n": "",
+      "t": "A"
+    },
+    "tabTo": {
+      "c": "button secondary more",
+      "href": null,
+      "i": "ContextualDropdown",
+      "n": "Also Show",
+      "t": "BUTTON"
+    },
+    "shiftTabBack": {
+      "c": "info-b",
+      "href": "https://datacatalog.worldbank.org/public-licenses#cc-by",
+      "i": "",
+      "n": "",
+      "t": "A"
+    },
+    "tabs": [
+      {
+        "active": true,
+        "attr": null,
+        "href": null,
+        "n": "Line",
+        "role": null
+      },
+      {
+        "active": false,
+        "attr": null,
+        "href": null,
+        "n": "Bar",
+        "role": null
+      },
+      {
+        "active": false,
+        "attr": null,
+        "href": null,
+        "n": "Map",
+        "role": null
+      }
+    ]
+  },
+  "pointer": {
+    "before": "Line",
+    "after": "Bar",
+    "renderedSvg": "bar-chart",
+    "afterURL": "https://data.worldbank.org/indicator/SP.POP.TOTL?end=2025&start=2025&view=bar"
+  }
+}

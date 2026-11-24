@@ -1,0 +1,1199 @@
+[
+  {
+    "index": 1,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"BODY\",\"\",\"\",\"\"]",
+        "tag": "BODY",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:50.805Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Ir para o conteúdo",
+        "signature": "[\"outside\",\"A\",\"\",\"Ir para o conteúdo\",\"#conteudo\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:50.879Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 2,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Ir para o conteúdo",
+        "signature": "[\"outside\",\"A\",\"\",\"Ir para o conteúdo\",\"#conteudo\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:50.911Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "GovBR",
+        "signature": "[\"outside\",\"A\",\"\",\"GovBR\",\"https://gov.br/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:50.982Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 3,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "GovBR",
+        "signature": "[\"outside\",\"A\",\"\",\"GovBR\",\"https://gov.br/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.000Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Acesso à informação",
+        "signature": "[\"outside\",\"A\",\"\",\"Acesso à informação\",\"http://www.gov.br/acessoainformacao/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.074Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 4,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Acesso à informação",
+        "signature": "[\"outside\",\"A\",\"\",\"Acesso à informação\",\"http://www.gov.br/acessoainformacao/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.100Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Participe",
+        "signature": "[\"outside\",\"A\",\"\",\"Participe\",\"https://www.gov.br/pt-br/participacao-social/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.169Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 5,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Participe",
+        "signature": "[\"outside\",\"A\",\"\",\"Participe\",\"https://www.gov.br/pt-br/participacao-social/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.186Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Legislação",
+        "signature": "[\"outside\",\"A\",\"\",\"Legislação\",\"http://www4.planalto.gov.br/legislacao/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.249Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 6,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Legislação",
+        "signature": "[\"outside\",\"A\",\"\",\"Legislação\",\"http://www4.planalto.gov.br/legislacao/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.263Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Órgãos do Governo",
+        "signature": "[\"outside\",\"A\",\"\",\"Órgãos do Governo\",\"http://www.gov.br/pt-br/orgaos-do-governo\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.324Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 7,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Órgãos do Governo",
+        "signature": "[\"outside\",\"A\",\"\",\"Órgãos do Governo\",\"http://www.gov.br/pt-br/orgaos-do-governo\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.336Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"A\",\"\",\"\",\"/pt/inicio.html\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.396Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 8,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"A\",\"\",\"\",\"/pt/inicio.html\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.424Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"A\",\"\",\"\",\"/cidades-e-estados.html?lang=pt-BR\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.486Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 9,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"A\",\"\",\"\",\"/cidades-e-estados.html?lang=pt-BR\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.498Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"A\",\"\",\"\",\"/en/cities-and-states.html?lang=en-GB\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.561Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 10,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "",
+        "signature": "[\"outside\",\"A\",\"\",\"\",\"/en/cities-and-states.html?lang=en-GB\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.572Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Outros idiomas",
+        "signature": "[\"outside\",\"A\",\"\",\"Outros idiomas\",\"#\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.636Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 11,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Outros idiomas",
+        "signature": "[\"outside\",\"A\",\"\",\"Outros idiomas\",\"#\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.663Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "mod-search-searchword",
+        "name": "",
+        "signature": "[\"outside\",\"INPUT\",\"mod-search-searchword\",\"\",\"\"]",
+        "tag": "INPUT",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.733Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 12,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "mod-search-searchword",
+        "name": "",
+        "signature": "[\"outside\",\"INPUT\",\"mod-search-searchword\",\"\",\"\"]",
+        "tag": "INPUT",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.752Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Buscar",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"Buscar\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.819Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 13,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Buscar",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"Buscar\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.831Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Página Principal",
+        "signature": "[\"outside\",\"A\",\"\",\"Página Principal\",\"/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.894Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 14,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Página Principal",
+        "signature": "[\"outside\",\"A\",\"\",\"Página Principal\",\"/\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.908Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "autoComplete",
+        "name": "",
+        "signature": "[\"outside\",\"INPUT\",\"autoComplete\",\"\",\"\"]",
+        "tag": "INPUT",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.970Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 15,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "autoComplete",
+        "name": "",
+        "signature": "[\"outside\",\"INPUT\",\"autoComplete\",\"\",\"\"]",
+        "tag": "INPUT",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:51.981Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Buscar",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"Buscar\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:52.043Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 16,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Buscar",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"Buscar\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:52.055Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Saiba mais no portal Cidades@",
+        "signature": "[\"outside\",\"A\",\"\",\"Saiba mais no portal Cidades@\",\"//cidades.ibge.gov.br/brasil/sp/santos\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:52.119Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 17,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Saiba mais no portal Cidades@",
+        "signature": "[\"outside\",\"A\",\"\",\"Saiba mais no portal Cidades@\",\"//cidades.ibge.gov.br/brasil/sp/santos\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:52.132Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Exportar",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"Exportar\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:52.195Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 18,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Exportar",
+        "signature": "[\"outside\",\"BUTTON\",\"\",\"Exportar\",\"\"]",
+        "tag": "BUTTON",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:52.208Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Saiba mais no portal Cidades@",
+        "signature": "[\"outside\",\"A\",\"\",\"Saiba mais no portal Cidades@\",\"//cidades.ibge.gov.br/brasil/sp/santos\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:52.270Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 19,
+    "phase": "teste",
+    "type": "press",
+    "key": "Tab",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "outside",
+        "id": "",
+        "name": "Saiba mais no portal Cidades@",
+        "signature": "[\"outside\",\"A\",\"\",\"Saiba mais no portal Cidades@\",\"//cidades.ibge.gov.br/brasil/sp/santos\"]",
+        "tag": "A",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:52.281Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "ano2010",
+        "id": "",
+        "name": "",
+        "signature": "[\"ano2010\",\"g\",\"\",\"\",\"\"]",
+        "tag": "g",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\" filter=\"url(&quot;#filter-id-225&quot;)\" style=\"outline: none;\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:52.345Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 20,
+    "phase": "teste",
+    "type": "press",
+    "key": "Enter",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "ano2010",
+        "id": "",
+        "name": "",
+        "signature": "[\"ano2010\",\"g\",\"\",\"\",\"\"]",
+        "tag": "g",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\" filter=\"url(&quot;#filter-id-225&quot;)\" style=\"outline: none;\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:52.364Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "ano2010",
+        "id": "",
+        "name": "",
+        "signature": "[\"ano2010\",\"g\",\"\",\"\",\"\"]",
+        "tag": "g",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\" filter=\"url(&quot;#filter-id-225&quot;)\" style=\"outline: none;\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:53.037Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  },
+  {
+    "index": 21,
+    "phase": "teste",
+    "type": "press",
+    "key": "Space",
+    "before": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "ano2010",
+        "id": "",
+        "name": "",
+        "signature": "[\"ano2010\",\"g\",\"\",\"\",\"\"]",
+        "tag": "g",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\" filter=\"url(&quot;#filter-id-225&quot;)\" style=\"outline: none;\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:53.050Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    },
+    "executed": true,
+    "after": {
+      "adapterOk": true,
+      "focus": {
+        "bucket": "ano2010",
+        "id": "",
+        "name": "",
+        "signature": "[\"ano2010\",\"g\",\"\",\"\",\"\"]",
+        "tag": "g",
+        "visible": true
+      },
+      "ibge": {
+        "fontesAbertas": false,
+        "marcador2010": "<g focusable=\"true\" transform=\"translate(150.25,47.5)\" filter=\"url(&quot;#filter-id-225&quot;)\" style=\"outline: none;\"><g><g fill=\"#1351b4\" stroke-width=\"0\"><circle r=\"3\"></circle></g></g></g>",
+        "pontos": 2,
+        "rotuloPonto": "",
+        "valor2010": ""
+      },
+      "time": "2026-11-11T14:03:53.712Z",
+      "title": "Santos (SP) | Cidades e Estados | IBGE",
+      "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+      "viewport": {
+        "height": 936,
+        "width": 1363
+      }
+    }
+  }
+]

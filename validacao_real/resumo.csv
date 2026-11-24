@@ -1,0 +1,4 @@
+﻿"Fluxo";"Estrategia";"Semente";"Estados";"Transicoes";"Episodios executados/previstos";"Teto de teclas por episodio";"Teclas consumidas";"Cobertura acumulada %";"Primeiro episodio completo";"Ocorrencias distintas"
+"Menu principal";"qlearning";"20261015";"4";"8";"3/3";"2500";"198";"100";"1";"1"
+"IBGE: gráfico de escolarização";"qlearning";"20261015";"6";"8";"3/3";"2500";"71";"87,5";"nao ocorreu";"1"
+"Banco Mundial: população total";"qlearning";"20261015";"7";"9";"3/3";"2500";"89";"77,78";"nao ocorreu";"1"

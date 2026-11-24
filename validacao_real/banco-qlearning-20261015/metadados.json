@@ -1,0 +1,137 @@
+{
+  "created": "2026-11-11T14:02:57.529Z",
+  "node": null,
+  "os": "linux 6.18.57 x64",
+  "browser": "Chrome de desktop da sessão",
+  "executionNotes": "Navegação real com teclas nativas em Chrome desktop; uma aba recarregada a cada episódio. Controle manual por mouse separado da cobertura.",
+  "config": {
+    "episodios": 3,
+    "limitePassos": 2500,
+    "alpha": 0.1,
+    "gamma": 0.9,
+    "epsilon": 0.2,
+    "semente": 20261015,
+    "sementesComparacao": [
+      20261015,
+      20261016,
+      20261017
+    ],
+    "episodiosComparacao": 5,
+    "viewport": {
+      "height": 936,
+      "width": 1363
+    },
+    "headless": false,
+    "pausaTeclaMs": 50,
+    "pausaTransicaoMs": 250,
+    "timeoutMs": 15000,
+    "maxTabsPorBusca": 100,
+    "pausaEpisodioMs": 1000,
+    "traces": false
+  },
+  "hashes": {
+    "config.json": "b229fc941c5b4cda9dfb01aa6154bc931db642b27b2d644be2123ea380d00120",
+    "package-lock.json": "383dfe97fd125785ea504a03484cd138bc81e366082d9f918d134afea8a11a42",
+    "haskell/Main.hs": "63b140172a1ccfdf0608e40408d04a267028b868cfc4deddb0238a4ea82590f7",
+    "src/modelos.mjs": "502e75879f2d9f8023aedaf70b9e3daa8291cc5182f42389eb867aa52a55a196",
+    "src/navegador.mjs": "ac7348563bdb8082c9c43ca484f5d1e65632c754f5307061f072a4d3145d92c9",
+    "src/experimento.mjs": "b66c22a01204f667d6ab6876aded56c18140dbc2968a7b525da0d07ee5f031cc",
+    "src/portais.mjs": "58c189e02534489ed377a5e946a3609981881aee917fc8d4a0c62a8fb592b0d9"
+  },
+  "modelVersion": "ic-sites-0.4.0",
+  "criterion": "all-transitions do modelo declarado",
+  "machine": "EFSM com saidas de Mealy",
+  "model": {
+    "id": "banco",
+    "nome": "Banco Mundial: população total",
+    "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+    "inicial": "pagina",
+    "estados": [
+      "pagina",
+      "licenca",
+      "also",
+      "share",
+      "details",
+      "bar_foco",
+      "barras"
+    ],
+    "transicoes": [
+      {
+        "id": "B01",
+        "from": "pagina",
+        "action": "B_LICENCA",
+        "to": "licenca",
+        "expected": "Tab alcança o link da licença do gráfico."
+      },
+      {
+        "id": "B02",
+        "from": "licenca",
+        "action": "B_ALSO",
+        "to": "also",
+        "expected": "Tab alcança Also Show."
+      },
+      {
+        "id": "B03",
+        "from": "also",
+        "action": "B_SHARE",
+        "to": "share",
+        "expected": "Tab leva o foco a Share."
+      },
+      {
+        "id": "B04",
+        "from": "share",
+        "action": "B_DETAILS",
+        "to": "details",
+        "expected": "Tab leva o foco a Details."
+      },
+      {
+        "id": "B05",
+        "from": "details",
+        "action": "B_VOLTAR_SHARE",
+        "to": "share",
+        "expected": "Shift+Tab volta a Share."
+      },
+      {
+        "id": "B06",
+        "from": "share",
+        "action": "B_VOLTAR_ALSO",
+        "to": "also",
+        "expected": "Shift+Tab volta a Also Show."
+      },
+      {
+        "id": "B07",
+        "from": "also",
+        "action": "B_VOLTAR_LICENCA",
+        "to": "licenca",
+        "expected": "Shift+Tab volta à licença."
+      },
+      {
+        "id": "B08",
+        "from": "licenca",
+        "action": "B_ALCANCAR_BAR",
+        "to": "bar_foco",
+        "expected": "O foco chega a Bar antes de sair do seletor de visualização."
+      },
+      {
+        "id": "B09",
+        "from": "bar_foco",
+        "action": "B_SELECIONAR_BAR",
+        "to": "barras",
+        "expected": "Enter em Bar renderiza o gráfico de barras."
+      }
+    ],
+    "roteiro": [
+      "B_LICENCA",
+      "B_ALSO",
+      "B_SHARE",
+      "B_DETAILS",
+      "B_VOLTAR_SHARE",
+      "B_VOLTAR_ALSO",
+      "B_VOLTAR_LICENCA",
+      "B_ALCANCAR_BAR",
+      "B_SELECIONAR_BAR"
+    ]
+  },
+  "mode": "qlearning",
+  "seed": 20261015
+}

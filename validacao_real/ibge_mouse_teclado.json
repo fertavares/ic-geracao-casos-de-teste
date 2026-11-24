@@ -1,0 +1,26 @@
+{
+  "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+  "timestamp": "2026-11-11T13:56:54.290Z",
+  "keyboard": [
+    {
+      "action": "focus",
+      "focus": "translate(150.25,47.5)",
+      "tooltips": []
+    },
+    {
+      "action": "Return",
+      "focus": "translate(150.25,47.5)",
+      "tooltips": []
+    },
+    {
+      "action": "space",
+      "focus": "translate(150.25,47.5)",
+      "tooltips": []
+    }
+  ],
+  "pointer": {
+    "result": "2010: 98,20 %",
+    "before": "sem tooltip",
+    "after": "tooltip visível no primeiro ponto do gráfico"
+  }
+}

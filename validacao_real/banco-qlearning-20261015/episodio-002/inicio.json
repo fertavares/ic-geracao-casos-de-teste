@@ -1,0 +1,25 @@
+{
+  "adapterOk": true,
+  "banco": {
+    "barChart": false,
+    "barMarkup": "<a class=\"\" data-reactid=\"164\"><span data-reactid=\"165\">Bar</span></a>",
+    "barVisible": true,
+    "noTabControls": true,
+    "view": "Line"
+  },
+  "focus": {
+    "bucket": "outside",
+    "id": "",
+    "name": "",
+    "signature": "[\"outside\",\"BODY\",\"\",\"\",\"\"]",
+    "tag": "BODY",
+    "visible": true
+  },
+  "time": "2026-11-11T14:03:02.381Z",
+  "title": "Population, total | Data",
+  "url": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+  "viewport": {
+    "height": 936,
+    "width": 1363
+  }
+}

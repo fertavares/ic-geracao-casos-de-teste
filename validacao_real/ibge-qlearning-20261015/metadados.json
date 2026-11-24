@@ -1,0 +1,128 @@
+{
+  "created": "2026-11-11T14:01:48.514Z",
+  "node": null,
+  "os": "linux 6.18.57 x64",
+  "browser": "Chrome de desktop da sessão",
+  "executionNotes": "Navegação real com teclas nativas em Chrome desktop; uma aba recarregada a cada episódio. Controle manual por mouse separado da cobertura.",
+  "config": {
+    "episodios": 3,
+    "limitePassos": 2500,
+    "alpha": 0.1,
+    "gamma": 0.9,
+    "epsilon": 0.2,
+    "semente": 20261015,
+    "sementesComparacao": [
+      20261015,
+      20261016,
+      20261017
+    ],
+    "episodiosComparacao": 5,
+    "viewport": {
+      "height": 936,
+      "width": 1363
+    },
+    "headless": false,
+    "pausaTeclaMs": 50,
+    "pausaTransicaoMs": 250,
+    "timeoutMs": 15000,
+    "maxTabsPorBusca": 100,
+    "pausaEpisodioMs": 1000,
+    "traces": false
+  },
+  "hashes": {
+    "config.json": "b229fc941c5b4cda9dfb01aa6154bc931db642b27b2d644be2123ea380d00120",
+    "package-lock.json": "383dfe97fd125785ea504a03484cd138bc81e366082d9f918d134afea8a11a42",
+    "haskell/Main.hs": "63b140172a1ccfdf0608e40408d04a267028b868cfc4deddb0238a4ea82590f7",
+    "src/modelos.mjs": "502e75879f2d9f8023aedaf70b9e3daa8291cc5182f42389eb867aa52a55a196",
+    "src/navegador.mjs": "ac7348563bdb8082c9c43ca484f5d1e65632c754f5307061f072a4d3145d92c9",
+    "src/experimento.mjs": "b66c22a01204f667d6ab6876aded56c18140dbc2968a7b525da0d07ee5f031cc",
+    "src/portais.mjs": "58c189e02534489ed377a5e946a3609981881aee917fc8d4a0c62a8fb592b0d9"
+  },
+  "modelVersion": "ic-sites-0.4.0",
+  "criterion": "all-transitions do modelo declarado",
+  "machine": "EFSM com saidas de Mealy",
+  "model": {
+    "id": "ibge",
+    "nome": "IBGE: gráfico de escolarização",
+    "url": "https://www.ibge.gov.br/cidades-e-estados/sp/santos.html",
+    "inicial": "pagina",
+    "estados": [
+      "pagina",
+      "ano2010",
+      "ano2022",
+      "fontes",
+      "fontes_abertas",
+      "valor2010"
+    ],
+    "transicoes": [
+      {
+        "id": "I01",
+        "from": "pagina",
+        "action": "I_ALCANCAR",
+        "to": "ano2010",
+        "expected": "Tab alcança o ponto de 2010."
+      },
+      {
+        "id": "I02",
+        "from": "ano2010",
+        "action": "I_AVANCAR",
+        "to": "ano2022",
+        "expected": "Tab leva o foco ao ponto de 2022."
+      },
+      {
+        "id": "I03",
+        "from": "ano2022",
+        "action": "I_FONTES",
+        "to": "fontes",
+        "expected": "Tab leva o foco a Notas e fontes."
+      },
+      {
+        "id": "I04",
+        "from": "fontes",
+        "action": "I_ABRIR",
+        "to": "fontes_abertas",
+        "expected": "Enter abre o painel de notas e fontes."
+      },
+      {
+        "id": "I05",
+        "from": "fontes_abertas",
+        "action": "I_FECHAR",
+        "to": "fontes",
+        "expected": "Enter fecha o painel de notas e fontes."
+      },
+      {
+        "id": "I06",
+        "from": "fontes",
+        "action": "I_VOLTAR_2022",
+        "to": "ano2022",
+        "expected": "Shift+Tab volta ao ponto de 2022."
+      },
+      {
+        "id": "I07",
+        "from": "ano2022",
+        "action": "I_VOLTAR_2010",
+        "to": "ano2010",
+        "expected": "Shift+Tab volta ao ponto de 2010."
+      },
+      {
+        "id": "I08",
+        "from": "ano2010",
+        "action": "I_CONSULTAR",
+        "to": "valor2010",
+        "expected": "O valor de 2010 fica disponível pelo teclado."
+      }
+    ],
+    "roteiro": [
+      "I_ALCANCAR",
+      "I_AVANCAR",
+      "I_FONTES",
+      "I_ABRIR",
+      "I_FECHAR",
+      "I_VOLTAR_2022",
+      "I_VOLTAR_2010",
+      "I_CONSULTAR"
+    ]
+  },
+  "mode": "qlearning",
+  "seed": 20261015
+}
