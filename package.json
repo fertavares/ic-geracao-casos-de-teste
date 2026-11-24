@@ -1,0 +1,28 @@
+{
+  "name": "ic-acessibilidade-web",
+  "version": "0.4.0",
+  "private": true,
+  "type": "module",
+  "description": "Experimentos de acessibilidade no gov.br, no IBGE e no Banco Mundial",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "doctor": "node src/cli.mjs doctor",
+    "compilar": "node src/cli.mjs compilar",
+    "test": "node --test",
+    "validar": "node src/cli.mjs executar --modo roteiro --fluxo todos",
+    "piloto": "node src/cli.mjs executar --modo qlearning --fluxo todos",
+    "piloto:menu": "node src/cli.mjs executar --modo qlearning --fluxo menu",
+    "comparar": "node src/cli.mjs comparar",
+    "reproduzir": "node src/cli.mjs reproduzir",
+    "relatorio": "node src/cli.mjs relatorio",
+    "piloto:ibge": "node src/cli.mjs executar --modo qlearning --fluxo ibge",
+    "validar:ibge": "node src/cli.mjs executar --modo roteiro --fluxo ibge",
+    "piloto:banco": "node src/cli.mjs executar --modo qlearning --fluxo banco",
+    "validar:banco": "node src/cli.mjs executar --modo roteiro --fluxo banco"
+  },
+  "dependencies": {
+    "playwright": "1.62.1"
+  }
+}
