@@ -1,0 +1,44 @@
+[
+  {
+    "arquivo": "telas/banco_mundial_linhas_2026-11-23.jpg",
+    "tipo": "captura_documental_de_interface",
+    "data": "2026-11-23",
+    "integra_coleta_quantitativa": false,
+    "origem": "Banco Mundial",
+    "sha256": "bb15be987259f4a6a4f4664466a2eff2ad0648cd08bf51041047f04fdd6dc438"
+  },
+  {
+    "arquivo": "telas/govbr_menu_2026-11-23.jpg",
+    "tipo": "captura_documental_de_interface",
+    "data": "2026-11-23",
+    "integra_coleta_quantitativa": false,
+    "origem": "gov.br",
+    "sha256": "88761bd2ec5b0fe570140782dc94aff48fff69f62e87bee88e45f1c078f93aee"
+  },
+  {
+    "arquivo": "telas/ibge_escolarizacao_2026-11-23.jpg",
+    "tipo": "captura_documental_de_interface",
+    "data": "2026-11-23",
+    "integra_coleta_quantitativa": false,
+    "origem": "IBGE",
+    "sha256": "d76a73840147926af97436f5a729fa610158d03cde468889cbb1e048d09def42"
+  },
+  {
+    "arquivo": "diagnosticos/diagnostico_ibge.png",
+    "tipo": "painel_derivado_dos_registros",
+    "data_dos_dados": "2026-11-11",
+    "data_da_elaboracao": "2026-11-23",
+    "origem": "validacao_real/ibge-qlearning-20261015/caso_falha.json",
+    "nao_e_captura_da_pagina_historica": true,
+    "sha256": "22af352f2a9caaeeeb7b78fb5fb94288b1f0f47a625ec0353ef2399b7c49cee3"
+  },
+  {
+    "arquivo": "diagnosticos/diagnostico_banco.png",
+    "tipo": "painel_derivado_dos_registros",
+    "data_dos_dados": "2026-11-11",
+    "data_da_elaboracao": "2026-11-23",
+    "origem": "validacao_real/banco-qlearning-20261015/caso_falha.json",
+    "nao_e_captura_da_pagina_historica": true,
+    "sha256": "f8b9b92417d1e415c6d21e877cfb68c42d243446638bdfb7ed82da01765f6f0e"
+  }
+]

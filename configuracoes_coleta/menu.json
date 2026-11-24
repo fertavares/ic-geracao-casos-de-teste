@@ -1,0 +1,25 @@
+{
+  "episodios": 3,
+  "limitePassos": 2500,
+  "alpha": 0.1,
+  "gamma": 0.9,
+  "epsilon": 0.2,
+  "semente": 20261015,
+  "sementesComparacao": [
+    20261015,
+    20261016,
+    20261017
+  ],
+  "episodiosComparacao": 5,
+  "viewport": {
+    "width": 1348,
+    "height": 936
+  },
+  "headless": false,
+  "pausaTeclaMs": 50,
+  "pausaTransicaoMs": 250,
+  "timeoutMs": 15000,
+  "maxTabsPorBusca": 100,
+  "pausaEpisodioMs": 1000,
+  "traces": false
+}
